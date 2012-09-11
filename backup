@@ -227,11 +227,11 @@ class Backup():
                 self.usage()
             elif args[1] == 'list':
                 s.list()
-            #elif args[1] == 'show':
-            #    if len(args) == 3:
-            #        s.show(args[2])
-            #    else:
-            #        s.list()
+            elif args[1] == 'show':
+                if len(args) == 3:
+                    s.show(args[2])
+                else:
+                    s.list()
             elif args[1] == 'run':
                 if len(args) == 3:
                     s.run(args[2])
