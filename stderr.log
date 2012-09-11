@@ -1,0 +1,168 @@
+Traceback (most recent call last):
+  File "./backup", line 273, in <module>
+    backup.main()
+  File "./backup", line 257, in main
+    self.task(args)
+  File "./backup", line 204, in task
+    t.run(args[2])
+  File "./backup", line 88, in run
+    r.execute(dict(cfg))
+  File "./backup", line 65, in execute
+    command = self.command(cfg)
+  File "./backup", line 55, in command
+    if cfg['policy'] == 'mirror':
+NameError: global name 'cfg' is not defined
+Traceback (most recent call last):
+  File "./backup", line 273, in <module>
+    backup.main()
+  File "./backup", line 257, in main
+    self.task(args)
+  File "./backup", line 204, in task
+    t.run(args[2])
+  File "./backup", line 88, in run
+    r.execute(dict(cfg))
+  File "./backup", line 65, in execute
+    command = self.command(cfg)
+  File "./backup", line 55, in command
+    if cfg['policy'] == 'mirror':
+NameError: global name 'cfg' is not defined
+Traceback (most recent call last):
+  File "./backup", line 273, in <module>
+    backup.main()
+  File "./backup", line 257, in main
+    self.task(args)
+  File "./backup", line 204, in task
+    t.run(args[2])
+  File "./backup", line 88, in run
+    r.execute(dict(cfg))
+  File "./backup", line 65, in execute
+    command = self.command(cfg)
+  File "./backup", line 55, in command
+    if cfg['policy'] == 'mirror':
+NameError: global name 'cfg' is not defined
+Traceback (most recent call last):
+  File "./backup", line 273, in <module>
+    backup.main()
+  File "./backup", line 257, in main
+    self.task(args)
+  File "./backup", line 204, in task
+    t.run(args[2])
+  File "./backup", line 88, in run
+    r.execute(dict(cfg))
+  File "./backup", line 65, in execute
+    command = self.command(cfg)
+  File "./backup", line 55, in command
+    if cfg['policy'] == 'mirror':
+NameError: global name 'cfg' is not defined
+Traceback (most recent call last):
+  File "./backup", line 273, in <module>
+    backup.main()
+  File "./backup", line 257, in main
+    self.task(args)
+  File "./backup", line 204, in task
+    t.run(args[2])
+  File "./backup", line 88, in run
+    r.execute(dict(cfg))
+  File "./backup", line 65, in execute
+    command = self.command(cfg)
+  File "./backup", line 55, in command
+    if cfg['policy'] == 'mirror':
+NameError: global name 'cfg' is not defined
+Traceback (most recent call last):
+  File "./backup", line 273, in <module>
+    backup.main()
+  File "./backup", line 257, in main
+    self.task(args)
+  File "./backup", line 204, in task
+    t.run(args[2])
+  File "./backup", line 88, in run
+    r.execute(dict(cfg))
+  File "./backup", line 65, in execute
+    command = self.command(cfg)
+  File "./backup", line 55, in command
+    if cfg['policy'] == 'mirror':
+NameError: global name 'cfg' is not defined
+Traceback (most recent call last):
+  File "./backup", line 276, in <module>
+    backup.main()
+  File "./backup", line 260, in main
+    self.task(args)
+  File "./backup", line 207, in task
+    t.run(args[2])
+  File "./backup", line 91, in run
+    r.execute(dict(cfg))
+  File "./backup", line 68, in execute
+    command = self.command(cfg)
+  File "./backup", line 61, in command
+    cmd = self.policy(cfg['policy']) + ' -h' + cfg['host'] + ' -P' + cfg['port'] + ' -u' + cfg['user'] + ' -p' + cfg['password'] + ' ' + cfg['database'] + ' ' + compress + ' > ' + cfg['to'] + '/' + datetime.today() + '.' + cfg['compress'] + '.sql'
+TypeError: Can't convert 'datetime.datetime' object to str implicitly
+Traceback (most recent call last):
+  File "./backup", line 276, in <module>
+    backup.main()
+  File "./backup", line 260, in main
+    self.task(args)
+  File "./backup", line 207, in task
+    t.run(args[2])
+  File "./backup", line 91, in run
+    r.execute(dict(cfg))
+  File "./backup", line 68, in execute
+    command = self.command(cfg)
+  File "./backup", line 61, in command
+    cmd = self.policy(cfg['policy']) + ' -h' + cfg['host'] + ' -P' + cfg['port'] + ' -u' + cfg['user'] + ' -p' + cfg['password'] + ' ' + cfg['database'] + ' ' + compress + ' > ' + cfg['to'] + '/' + datetime.today() + '.' + cfg['compress'] + '.sql'
+TypeError: Can't convert 'datetime.datetime' object to str implicitly
+Traceback (most recent call last):
+  File "./backup", line 276, in <module>
+    backup.main()
+  File "./backup", line 260, in main
+    self.task(args)
+  File "./backup", line 207, in task
+    t.run(args[2])
+  File "./backup", line 91, in run
+    r.execute(dict(cfg))
+  File "./backup", line 68, in execute
+    cmd = self.command(cfg)
+  File "./backup", line 61, in command
+    cmd = self.policy(cfg['policy']) + ' -h' + cfg['host'] + ' -P' + cfg['port'] + ' -u' + cfg['user'] + ' -p' + cfg['password'] + ' ' + cfg['database'] + ' ' + compress + ' > ' + cfg['to'] + '/' + datetime.today() + '.' + cfg['compress'] + '.sql'
+TypeError: Can't convert 'datetime.datetime' object to str implicitly
+Traceback (most recent call last):
+  File "./backup", line 276, in <module>
+    backup.main()
+  File "./backup", line 260, in main
+    self.task(args)
+  File "./backup", line 207, in task
+    t.run(args[2])
+  File "./backup", line 90, in run
+    r.execute(dict(cfg))
+  File "./backup", line 68, in execute
+    cmd = self.command(cfg)
+  File "./backup", line 61, in command
+    cmd = self.policy(cfg['policy']) + ' -h' + cfg['host'] + ' -P' + cfg['port'] + ' -u' + cfg['user'] + ' -p' + cfg['password'] + ' ' + cfg['database'] + ' ' + compress + ' > ' + cfg['to'] + '/' + datetime.today() + '.' + cfg['compress'] + '.sql'
+TypeError: Can't convert 'datetime.datetime' object to str implicitly
+Traceback (most recent call last):
+  File "./backup", line 276, in <module>
+    backup.main()
+  File "./backup", line 260, in main
+    self.task(args)
+  File "./backup", line 207, in task
+    t.run(args[2])
+  File "./backup", line 91, in run
+    r.execute(dict(cfg))
+  File "./backup", line 68, in execute
+    cmd = self.command(cfg)
+  File "./backup", line 61, in command
+    cmd = self.policy(cfg['policy']) + ' -h' + cfg['host'] + ' -P' + cfg['port'] + ' -u' + cfg['user'] + ' -p' + cfg['password'] + ' ' + cfg['database'] + ' ' + compress + ' > ' + cfg['to'] + '/' + datetime.today() + '.' + cfg['compress'] + '.sql'
+TypeError: Can't convert 'datetime.datetime' object to str implicitly
+Traceback (most recent call last):
+  File "./backup", line 276, in <module>
+    backup.main()
+  File "./backup", line 260, in main
+    self.task(args)
+  File "./backup", line 207, in task
+    t.run(args[2])
+  File "./backup", line 91, in run
+    r.execute(dict(cfg))
+  File "./backup", line 68, in execute
+    cmd = self.command(cfg)
+  File "./backup", line 61, in command
+    cmd = self.policy(cfg['policy']) + ' -h' + cfg['host'] + ' -P' + cfg['port'] + ' -u' + cfg['user'] + ' -p' + cfg['password'] + ' ' + cfg['database'] + ' ' + compress + ' > ' + cfg['to'] + '/' + datetime.today() + '.' + cfg['compress'] + '.sql'
+TypeError: Can't convert 'datetime.datetime' object to str implicitly

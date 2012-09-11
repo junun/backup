@@ -1,0 +1,156 @@
+
+2012-09-11 10:29:01 DEBUG    Task
+2012-09-11 10:29:12 DEBUG    Task
+2012-09-11 10:29:47 DEBUG    Schedule
+2012-09-11 10:33:10 DEBUG    Task
+2012-09-11 10:37:10 DEBUG    Task
+2012-09-11 10:37:14 DEBUG    Task
+2012-09-11 10:37:37 DEBUG    Task
+2012-09-11 10:38:02 DEBUG    Task
+2012-09-11 10:42:31 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 10:42:31 INFO     Task - Run - www
+2012-09-11 10:42:31 DEBUG    Task
+2012-09-11 10:43:38 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 10:43:38 INFO     Task - Run - www
+2012-09-11 10:43:38 DEBUG    Task
+2012-09-11 10:54:34 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 10:54:34 INFO     Task - Run - www
+2012-09-11 10:54:34 DEBUG    Task
+2012-09-11 10:57:09 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 10:57:09 INFO     Task - Run - www
+2012-09-11 10:57:09 DEBUG    Task
+2012-09-11 10:57:16 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 10:57:16 INFO     Task - Run - www
+2012-09-11 10:57:16 DEBUG    Task
+2012-09-11 11:01:20 DEBUG    Task
+2012-09-11 11:01:23 DEBUG    Task
+2012-09-11 11:01:29 DEBUG    Task
+2012-09-11 11:01:33 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 11:01:33 INFO     Task - Run - www
+2012-09-11 11:01:33 DEBUG    Task
+2012-09-11 11:02:25 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 11:02:25 INFO     Task - Run - www
+2012-09-11 11:02:25 DEBUG    Task
+2012-09-11 11:02:38 DEBUG    Task
+2012-09-11 11:03:12 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 11:03:12 INFO     Task - Run - www
+2012-09-11 11:03:12 DEBUG    Task
+2012-09-11 11:03:15 DEBUG    Task
+2012-09-11 11:03:18 DEBUG    Task
+2012-09-11 11:03:20 DEBUG    Task
+2012-09-11 11:03:36 DEBUG    Task
+2012-09-11 11:03:37 DEBUG    Task
+2012-09-11 11:03:40 DEBUG    Task
+2012-09-11 11:03:43 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 11:03:43 INFO     Task - Run - www
+2012-09-11 11:03:43 DEBUG    Task
+2012-09-11 11:04:23 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 11:04:23 INFO     Task - Run - www
+2012-09-11 11:04:23 DEBUG    Task
+2012-09-11 11:04:52 DEBUG    Task
+2012-09-11 11:07:11 DEBUG    Task
+2012-09-11 11:07:16 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 11:07:16 INFO     Task - Run - www
+2012-09-11 11:07:16 DEBUG    Task
+2012-09-11 11:07:19 DEBUG    Task
+2012-09-11 11:07:22 DEBUG    Task
+2012-09-11 11:08:34 DEBUG    Task
+2012-09-11 11:10:23 DEBUG    Task
+2012-09-11 11:11:25 DEBUG    Task
+2012-09-11 11:14:33 DEBUG    Task
+2012-09-11 11:15:08 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 11:15:08 INFO     Task - Run - www
+2012-09-11 11:15:08 DEBUG    Task
+2012-09-11 11:16:35 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 11:16:35 INFO     Task - Run - www
+2012-09-11 11:16:35 DEBUG    Task
+2012-09-11 11:18:04 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 11:18:04 INFO     Task - Run - www
+2012-09-11 11:18:04 DEBUG    Task
+2012-09-11 11:18:05 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 11:18:05 INFO     Task - Run - www
+2012-09-11 11:18:05 DEBUG    Task
+2012-09-11 11:19:47 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 11:19:47 INFO     Task - Run - www
+2012-09-11 11:19:47 DEBUG    Task
+2012-09-11 11:19:50 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 11:19:50 INFO     Task - Run - www
+2012-09-11 11:19:50 DEBUG    Task
+2012-09-11 11:20:06 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 11:20:06 INFO     Task - Run - www
+2012-09-11 11:20:06 DEBUG    Task
+2012-09-11 11:20:07 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 11:20:07 INFO     Task - Run - www
+2012-09-11 11:20:07 DEBUG    Task
+2012-09-11 11:20:15 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 11:20:15 INFO     Task - Run - www
+2012-09-11 11:20:15 DEBUG    Task
+2012-09-11 11:20:48 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 11:20:48 INFO     Task - Run - www
+2012-09-11 11:20:48 DEBUG    Task
+2012-09-11 11:21:08 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 11:21:08 INFO     Task - Run - www
+2012-09-11 11:21:08 DEBUG    Task
+2012-09-11 11:21:21 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 11:21:21 INFO     Task - Run - www
+2012-09-11 11:21:21 DEBUG    Task
+2012-09-11 11:21:41 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 11:21:41 INFO     Task - Run - www
+2012-09-11 11:21:41 DEBUG    Task
+2012-09-11 11:21:52 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 11:21:52 INFO     Task - Run - www
+2012-09-11 11:21:52 DEBUG    Task
+2012-09-11 11:22:10 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 11:22:10 INFO     Task - Run - www
+2012-09-11 11:22:10 DEBUG    Task
+2012-09-11 11:24:17 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 11:24:17 INFO     Task - Run - www
+2012-09-11 11:24:17 DEBUG    Task
+2012-09-11 11:24:19 DEBUG    rsync -auz --delete /www/www.example.com/* /tmp/www >> stdout.log
+2012-09-11 11:24:19 INFO     Task - Run - www
+2012-09-11 11:24:19 DEBUG    Task
+2012-09-11 11:30:58 DEBUG    Task
+2012-09-11 11:31:13 DEBUG    Task
+2012-09-11 11:42:59 DEBUG    Task
+2012-09-11 12:46:15 DEBUG    mysqldump -h192.168.2.1 -P3306 -uwww -pqwer123 test
+2012-09-11 12:46:15 INFO     Task - Run - database
+2012-09-11 12:46:15 DEBUG    Task
+2012-09-11 13:04:19 DEBUG    mysqldump -h192.168.2.1 -P3306 -uwww -pqwer123 test  | gzip > /tmp/2012-09-11 13:04:19.801485.gzip.sql
+2012-09-11 13:04:19 INFO     Task - Run - database
+2012-09-11 13:04:19 DEBUG    Task
+2012-09-11 13:09:26 DEBUG    mysqldump -h192.168.2.1 -P3306 -uwww -pqwer123 test  | gzip > /tmp/YYYY-MM-DD.THH:MM:SS.gzip.sql
+2012-09-11 13:09:26 INFO     Task - Run - database
+2012-09-11 13:09:26 DEBUG    Task
+2012-09-11 13:09:38 DEBUG    mysqldump -h192.168.2.1 -P3306 -uwww -pqwer123 test  | gzip > /tmp/YYYY-MM-DD.THH:MM:SS.gzip.sql
+2012-09-11 13:09:38 INFO     Task - Run - database
+2012-09-11 13:09:38 DEBUG    Task
+2012-09-11 13:16:39 DEBUG    mysqldump -h192.168.2.1 -P3306 -uwww -pqwer123 test  | gzip > /tmp/2012-09-11.13:16:39.gzip.sql
+2012-09-11 13:16:39 INFO     Task - Run - database
+2012-09-11 13:16:39 DEBUG    Task
+2012-09-11 13:17:43 DEBUG    mysqldump -h192.168.2.1 -P3306 -uwww -pqwer123 test  | gzip > /tmp/2012-09-11.13:17:43.gzip.sql
+2012-09-11 13:17:43 INFO     Task - Run - database
+2012-09-11 13:17:43 DEBUG    Task
+2012-09-11 13:18:38 DEBUG    mysqldump -h192.168.2.1 -P3306 -uwww -pqwer123 test  | gzip > /tmp/test.2012-09-11.13:18:38.gzip.sql
+2012-09-11 13:18:38 INFO     Task - Run - database
+2012-09-11 13:18:38 DEBUG    Task
+2012-09-11 13:22:44 DEBUG    mysqldump -h192.168.2.1 -P3306 -uwww -pqwer123 test  | gzip > /tmp/test.2012-09-11.13:22:44.gzip.sql
+2012-09-11 13:22:45 INFO     Task - Run - database
+2012-09-11 13:22:45 DEBUG    Task
+2012-09-11 13:23:17 DEBUG    mysqldump -h192.168.2.1 -P3306 -uwww -pqwer123 hx2222  | gzip > /tmp/hx2222.2012-09-11.13:23:17.gzip.sql
+2012-09-11 13:23:18 INFO     Task - Run - database
+2012-09-11 13:23:18 DEBUG    Task
+2012-09-11 13:23:33 DEBUG    mysqldump -h192.168.2.1 -P3306 -uwww -pqwer123 db_hx9999  | gzip > /tmp/db_hx9999.2012-09-11.13:23:33.gzip.sql
+2012-09-11 13:23:33 INFO     Task - Run - database
+2012-09-11 13:23:33 DEBUG    Task
+2012-09-11 13:23:45 DEBUG    mysqldump -h192.168.2.1 -P3306 -uwww -pqwer123 24gold  | gzip > /tmp/24gold.2012-09-11.13:23:45.gzip.sql
+2012-09-11 13:23:45 INFO     Task - Run - database
+2012-09-11 13:23:45 DEBUG    Task
+2012-09-11 13:23:58 DEBUG    mysqldump -h192.168.2.1 -P3306 -uwww -pqwer123 24gold  | gzip > /tmp/24gold.2012-09-11.13:23:58.gzip.sql
+2012-09-11 13:23:58 INFO     Task - Run - database
+2012-09-11 13:23:58 DEBUG    Task
+2012-09-11 13:24:53 DEBUG    mysqldump -h192.168.2.1 -P3306 -uwww -pqwer123 24gold  | gzip > /tmp/24gold.2012-09-11.13:24:53.gzip.sql
+2012-09-11 13:25:28 INFO     Task - Run - database
+2012-09-11 13:25:28 DEBUG    Task
+2012-09-11 13:25:45 DEBUG    mysqldump -h192.168.2.1 -P3306 -uwww -pqwer123 24gold  | gzip > /tmp/24gold.2012-09-11.13:25:45.gzip.sql
+2012-09-11 13:26:48 INFO     Task - Run - database
+2012-09-11 13:26:48 DEBUG    Task
