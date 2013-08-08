@@ -19,7 +19,7 @@ WEEK=$(date -u +%A)
 # date -u +%w
 TIMEPOINT=$(date -u +%Y-%m-%d)
 RSYNC_OPTS="-auz --delete --log-file=$LOGFILE"
-TAR_OPTS="zcf"
+TAR_OPTS="zcfP"
 ####################################
 test ! -w $BACKUP_DIR && echo "Error: $BACKUP_DIR is un-writeable." && exit 0
 
@@ -32,9 +32,11 @@ do
 	for host in $(ls -1 /www/$domain)
 	do
 		echo " - $host"
+		# Rsync
 		backup_dir=$BACKUP_DIR/$domain/$host/$WEEK
 		mkdir -p ${backup_dir}
  		$RSYNC $RSYNC_OPTS /www/$domain/$host/* $backup_dir
+ 		# TAR
 		$TAR $TAR_OPTS $BACKUP_DIR/$domain/$host/$host.$TIMEPOINT.tgz /www/$domain/$host
 	done
  	#$RSYNC $RSYNC_OPTS /www/$domain $BACKUP_DIR/$domain/$TIMEPOINT
